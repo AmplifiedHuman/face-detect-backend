@@ -8,7 +8,7 @@ const profile = require('./controllers/profile');
 const image = require('./controllers/image');
 
 const app = express();
-const port = 3001;
+const port = process.env.PORT || 3000;
 
 app.use(express.json());
 app.use(cors());
