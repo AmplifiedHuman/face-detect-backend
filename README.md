@@ -1,6 +1,6 @@
 # Face Detect Backend
 
-Backend of the [Face Detect Project](https://amplifiedhuman.github.io/face-detect/), built with Node.js, Express.js, and Knex.js.
+Backend of the [Face Detect Project](https://amplifiedhuman.github.io/face-detect/), built with Node.js, Express.js, Knex.js and hosted using Heroku.
 Password are safely encrytped using brcrypt.
 
 ## Installation
